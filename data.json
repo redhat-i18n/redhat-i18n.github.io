@@ -9,19 +9,16 @@
             "projects":[
                 {
                     "name":"ibus",
-                    "slug":"tool",
                     "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
                     "link":"https://www.redhat.com"
                 },
                 {
                     "name":"libpinyin",
-                    "slug":"ime",
                     "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
                     "link":"https://www.redhat.com"
                 },
                 {
                     "name":"ibus-typing-booster",
-                    "slug":"ime",
                     "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
                     "link":"https://www.redhat.com"
                 }
@@ -31,19 +28,16 @@
             "projects":[
                 {
                     "name":"Fontconfig",
-                    "slug":"fonts",
                     "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
                     "link":"https://www.redhat.com"
                 },
                 {
                     "name":"Liberation fonts",
-                    "slug":"fonts",
                     "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
                     "link":"https://www.redhat.com"
                 },
                 {
                     "name":"Lohit fonts",
-                    "slug":"fonts",
                     "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
                     "link":"https://www.redhat.com"
                 }
@@ -53,7 +47,6 @@
             "projects":[
                 {
                     "name":"Transtats",
-                    "slug":"tool",
                     "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
                     "link":"https://www.redhat.com"
                 }
