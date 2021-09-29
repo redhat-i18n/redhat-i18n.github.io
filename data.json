@@ -19,8 +19,13 @@
                 },
                 {
                     "name":"ibus-typing-booster",
-                    "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
-                    "link":"https://www.redhat.com"
+                    "desc":"Faster typing by context sensitive completion.",
+                    "link":"https://mike-fabian.github.io/ibus-typing-booster/"
+                },
+                {
+                    "name":"ibus-table",
+                    "desc":"Table based input methods for IBus",
+                    "link":"http://mike-fabian.github.io/ibus-table/"
                 }
             ]
         },
