@@ -21,7 +21,7 @@
                     "name":"ibus-typing-booster",
                     "desc":"Faster typing by context sensitive completion.",
                     "link":"https://mike-fabian.github.io/ibus-typing-booster/"
-                }
+                },
                 {
                     "name":"ibus-table",
                     "desc":"Table based input methods for IBus",
