@@ -38,13 +38,13 @@
                 },
                 {
                     "name":"Liberation fonts",
-                    "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
-                    "link":"https://www.redhat.com"
+                    "desc":"Liberation is the collective name of four TrueType font families: Liberation Sans, Liberation Sans Narrow, Liberation Serif, and Liberation Mono.",
+                    "link":"https://github.com/liberationfonts"
                 },
                 {
                     "name":"Lohit fonts",
-                    "desc":"Some quick example text to build on the card title and make up the bulk of the card's content.",
-                    "link":"https://www.redhat.com"
+                    "desc":"Lohit is a font family designed to cover Indic scripts.",
+                    "link":"https://github.com/lohit-fonts"
                 }
             ]
         },
