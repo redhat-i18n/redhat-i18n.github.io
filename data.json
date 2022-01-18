@@ -18,14 +18,24 @@
                     "link":"https://github.com/libpinyin/"
                 },
                 {
-                    "name":"ibus-typing-booster",
-                    "desc":"Faster typing by context sensitive completion.",
-                    "link":"https://mike-fabian.github.io/ibus-typing-booster/"
+                    "name":"ibus-anthy",
+                    "desc":"A Japanese input engine for IBus",
+                    "link":"https://github.com/ibus/ibus-anthy"
+                },
+                {
+                    "name":"ibus-m17n",
+                    "desc":"Multilingual input method engine for IBus",
+                    "link":"https://github.com/ibus/ibus-m17n"
                 },
                 {
                     "name":"ibus-table",
                     "desc":"Table based input methods for IBus",
                     "link":"http://mike-fabian.github.io/ibus-table/"
+                },
+                {
+                    "name":"ibus-typing-booster",
+                    "desc":"Faster typing by context sensitive completion.",
+                    "link":"https://mike-fabian.github.io/ibus-typing-booster/"
                 }
             ]
         },
